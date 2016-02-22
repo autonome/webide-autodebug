@@ -1,0 +1,15 @@
+{
+  "title": "WebIDE Auto-debug",
+  "name": "webideautodebug",
+  "version": "0.0.1",
+  "description": "Automatically open the developer tools when launching an app in WebIDE.",
+  "main": "index.js",
+  "author": "Dietrich Ayala",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack", "devtools", "webide", "debugging"
+  ]
+}
